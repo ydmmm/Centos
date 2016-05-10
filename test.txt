@@ -1,3 +1,6 @@
 hahaha
 nanana
-master
+<<<<<<< HEAD
+=======
+dev
+>>>>>>> dev
